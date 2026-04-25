@@ -28,6 +28,7 @@ code .
 
 ## Install Dependencies
 
+Open the terminal within the code editor and type: 
 npm install
 
 ## Setup Environment Variables
@@ -37,6 +38,7 @@ Place the necessary .env file within the root directory:
 
 ## Run the Project
 
+Open the terminal within the code editor and type: 
 npm run dev
 
 Open in browser:
